@@ -1,0 +1,13 @@
+{
+  "name": "coquito-amarillo",
+  "version": "1.0.0",
+  "description": "Sistema de captura y persistencia de pedidos - Coquito Amarillo S.A.S.",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7"
+  }
+}
